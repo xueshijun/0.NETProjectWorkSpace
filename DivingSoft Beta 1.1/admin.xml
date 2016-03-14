@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312"?>
+<human>
+  <user role="admin">
+    <id>1</id>	
+    <name>test1</name>
+    <pass>test1</pass> 
+  </user> 
+  <user role="admin">
+    <id>2</id>	
+    <name>test2</name>
+    <pass>test2</pass> 
+  </user> 
+</human>

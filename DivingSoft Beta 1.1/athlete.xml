@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="gb2312"?>
+<human>
+  <user role="athlete">
+    <id>1</id>	
+    <name>Tom</name> 
+    <parameter>2.0</parameter>
+  </user>
+  <user role="athlete">
+    <id>2</id>	
+    <name>Jack</name> 
+    <parameter>2.0</parameter>
+  </user>
+  <user role="athlete">
+    <id>3</id>	
+    <name>Mike</name> 
+    <parameter>2.0</parameter>
+  </user>
+  <user role="athlete">
+    <id>4</id>	
+    <name>June</name> 
+    <parameter>2.0</parameter>
+  </user>
+  <user role="athlete">
+    <id>5</id>	
+    <name>John</name> 
+    <parameter>2.0</parameter>
+  </user>
+  <user role="athlete">
+    <id>6</id>	
+    <name>Micale</name> 
+    <parameter>2.0</parameter>
+  </user>
+</human>
