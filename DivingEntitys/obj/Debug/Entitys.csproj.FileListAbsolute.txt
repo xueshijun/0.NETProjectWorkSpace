@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Diving\DivingEntitys\bin\Debug\Entitys.dll
+C:\Users\Administrator\Desktop\Diving\DivingEntitys\bin\Debug\Entitys.pdb
+C:\Users\Administrator\Desktop\Diving\DivingEntitys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Diving\DivingEntitys\obj\Debug\Entitys.dll
+C:\Users\Administrator\Desktop\Diving\DivingEntitys\obj\Debug\Entitys.pdb

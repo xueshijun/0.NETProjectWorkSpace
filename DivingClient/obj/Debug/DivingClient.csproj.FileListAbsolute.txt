@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Diving\DivingClient\bin\Debug\DivingClient.exe.config
+C:\Users\Administrator\Desktop\Diving\DivingClient\bin\Debug\DivingClient.exe
+C:\Users\Administrator\Desktop\Diving\DivingClient\bin\Debug\DivingClient.pdb
+C:\Users\Administrator\Desktop\Diving\DivingClient\bin\Debug\Entitys.dll
+C:\Users\Administrator\Desktop\Diving\DivingClient\bin\Debug\Entitys.pdb
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\ChatClient.DivingClient.resources
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\ChatClient.LoginForm.resources
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\DivingClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\DivingClient.exe
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\DivingClient.pdb
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\Diving\DivingClient\obj\Debug\GenerateResource-ResGen.write.4.tlog
